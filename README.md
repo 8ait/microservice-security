@@ -4,3 +4,7 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=8ait_microservice-security&metric=alert_status)](https://sonarcloud.io/dashboard?id=8ait_microservice-security)
 
 Microservice secutiry aproach for ASP .NET Core
+ - Identity Server 4 as identity provider
+ - Ocelot as api gateway
+ - RabbitMQ as message broker  
+ - Token exchange
